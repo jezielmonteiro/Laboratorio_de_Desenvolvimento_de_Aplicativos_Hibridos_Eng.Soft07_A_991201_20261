@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Hello, World!",
+    "slug": "hello-wrld",
+    "version": "26.03.0501",
+    "orientation": "portrait",
+    "icon": "./assets/world.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/world.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/world_foreground.png",
+        "backgroundImage": "./assets/world_round.png"
+      }
+    }
+  }
+}
