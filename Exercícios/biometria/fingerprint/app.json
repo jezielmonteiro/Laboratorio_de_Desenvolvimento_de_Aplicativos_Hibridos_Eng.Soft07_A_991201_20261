@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Biometria",
+    "slug": "fingerprint",
+    "version": "26.03.0801",
+    "orientation": "portrait",
+    "icon": "./assets/fingerprint.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/fingerprint.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/fingerprint_foreground.png",
+        "backgroundImage": "./assets/fingerprint_round.png"
+      }
+    }
+  }
+}
