@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "To Do",
+    "slug": "to-do",
+    "version": "26.03.14",
+    "orientation": "portrait",
+    "icon": "./assets/do.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/do.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/do_foreground.png",
+        "backgroundImage": "./assets/do_round.png"
+      }
+    },
+    "web": {
+      "favicon": "./assets/do.png"
+    }
+  }
+}
