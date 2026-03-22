@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Maps",
+    "slug": "gps",
+    "version": "26.03.2201",
+    "orientation": "portrait",
+    "icon": "./assets/maps.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/maps.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/maps_foreground.png",
+        "backgroundImage": "./assets/maps_round.png"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
